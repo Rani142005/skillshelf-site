@@ -1,0 +1,40 @@
+SKILLSHELF — TECH PROJECT REPORT OUTLINE
+========================================
+
+1. TITLE PAGE
+   Project title, team members, institution and date.
+
+2. ABSTRACT
+   Short overview of the problem, approach and result.
+
+3. PROBLEM STATEMENT
+   Define the problem, target users and motivation.
+
+4. OBJECTIVES AND SCOPE
+   List the goals and boundaries of the project.
+
+5. RELATED WORK
+   Summarize relevant work and cite sources appropriately.
+
+6. REQUIREMENTS
+   Functional and non-functional requirements.
+
+7. SYSTEM DESIGN
+   Architecture, components, data flow and diagrams.
+
+8. IMPLEMENTATION
+   Tools, technology choices and key implementation details.
+
+9. TESTING AND RESULTS
+   Test approach, evidence, results and limitations.
+
+10. CONCLUSION AND FUTURE WORK
+    Summarize what was achieved and what could improve.
+
+11. REFERENCES
+    Cite sources using the style required by your institution.
+
+12. APPENDICES
+    Include supporting material only when needed.
+
+Adapt this outline to your course or department's official report format.

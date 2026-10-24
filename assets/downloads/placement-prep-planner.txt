@@ -1,0 +1,33 @@
+SKILLSHELF — WEEKLY PLACEMENT PREP PLANNER
+==========================================
+
+WEEK OF: ______________________
+
+THIS WEEK'S TOP 3
+1. ______________________________________
+2. ______________________________________
+3. ______________________________________
+
+CODING PRACTICE
+[ ] Arrays / strings
+[ ] Problem-solving review
+[ ] Explain one solution aloud
+
+CORE CS
+[ ] Operating systems
+[ ] DBMS / SQL
+[ ] Computer networks
+[ ] OOP concepts
+
+CAREER MATERIALS
+[ ] Improve one resume bullet
+[ ] Review one project explanation
+[ ] Research target role/company
+[ ] Practice one behavioral answer
+
+WEEKLY REFLECTION
+What worked? __________________________________
+What was difficult? ___________________________
+What will I change next week? _________________
+
+Keep the plan realistic and adjust it to your schedule.

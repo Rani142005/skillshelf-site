@@ -1,0 +1,37 @@
+SKILLSHELF — DSA INTERVIEW PREP CHECKLIST
+=========================================
+
+FOUNDATIONS
+[ ] Big-O time and space complexity
+[ ] Arrays and strings
+[ ] Hash maps and sets
+[ ] Two pointers
+[ ] Sliding window
+[ ] Stack and queue
+[ ] Linked lists
+[ ] Binary search
+[ ] Recursion and backtracking
+[ ] Trees and binary search trees
+[ ] Heaps and priority queues
+[ ] Graph traversal: BFS and DFS
+[ ] Greedy algorithms
+[ ] Dynamic programming basics
+
+FOR EACH PROBLEM
+[ ] Restate the problem in my own words
+[ ] Work through a small example
+[ ] Identify edge cases
+[ ] Explain a straightforward approach
+[ ] Improve the approach if possible
+[ ] State time and space complexity
+[ ] Test the solution manually
+[ ] Revisit the problem after a few days
+
+INTERVIEW PRACTICE
+[ ] Explain my reasoning aloud
+[ ] Ask clarifying questions
+[ ] Write readable code
+[ ] Test empty and boundary inputs
+[ ] Review mistakes in a problem log
+
+Choose a sustainable routine and focus on understanding, not only counting solved problems.

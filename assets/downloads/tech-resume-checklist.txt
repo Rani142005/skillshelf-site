@@ -1,0 +1,34 @@
+SKILLSHELF — TECH RESUME CHECKLIST
+==================================
+
+CONTACT
+[ ] Professional email address
+[ ] Phone and relevant professional links
+[ ] GitHub / portfolio link works
+
+SUMMARY AND EDUCATION
+[ ] Clear target role if a summary is included
+[ ] Degree, institution and expected graduation date
+[ ] Relevant coursework only when useful
+
+SKILLS
+[ ] List skills you can discuss in an interview
+[ ] Group languages, tools and frameworks clearly
+[ ] Avoid progress bars and unsupported proficiency claims
+
+PROJECTS
+[ ] Explain the problem and what you built
+[ ] Name the technologies actually used
+[ ] State your individual contribution
+[ ] Include measurable results only when verified
+[ ] Ensure repositories and demos are accessible
+
+FINAL REVIEW
+[ ] Consistent dates and formatting
+[ ] No spelling errors
+[ ] Readable on a phone and as a PDF
+[ ] Tailored to the job description
+[ ] No unnecessary personal information
+[ ] File name is professional, e.g. Firstname-Lastname-Resume.pdf
+
+Use this checklist as guidance, not a guarantee of passing any automated screening system.

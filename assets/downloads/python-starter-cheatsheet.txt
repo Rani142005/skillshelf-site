@@ -1,0 +1,47 @@
+SKILLSHELF — PYTHON BEGINNER QUICK REFERENCE
+============================================
+
+VARIABLES
+name = "Alex"
+count = 3
+is_ready = True
+
+COMMON DATA TYPES
+str   text: "hello"
+int   whole number: 42
+float decimal: 3.14
+bool  True or False
+list  [1, 2, 3]
+dict  {"language": "Python"}
+
+CONDITIONALS
+if count > 0:
+    print("Positive")
+elif count == 0:
+    print("Zero")
+else:
+    print("Negative")
+
+LOOPS
+for number in range(3):
+    print(number)
+
+while count > 0:
+    count -= 1
+
+FUNCTIONS
+def greet(name):
+    return f"Hello, {name}!"
+
+EXCEPTIONS
+try:
+    number = int("12")
+except ValueError:
+    print("Please provide a valid number")
+
+PRACTICE
+1. Write a function that checks whether a number is even.
+2. Count the vowels in a string.
+3. Find the largest value in a list.
+
+This is an introductory reference. Test examples in your own Python environment.

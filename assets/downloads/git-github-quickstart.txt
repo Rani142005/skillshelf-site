@@ -1,0 +1,34 @@
+SKILLSHELF — GIT & GITHUB QUICK START
+=====================================
+
+Check installation:
+git --version
+
+Set your identity (usually once per computer):
+git config --global user.name "Your Name"
+git config --global user.email "you@example.com"
+
+Start tracking a project:
+git init
+git status
+git add .
+git commit -m "Initial commit"
+
+After connecting your local repository to a GitHub remote:
+git branch -M main
+git push -u origin main
+
+Common workflow:
+git status
+git add path/to/file
+git commit -m "Describe the change"
+git push
+
+Useful concepts:
+- Repository: project files and their history.
+- Commit: a saved snapshot of changes.
+- Branch: an independent line of work.
+- Remote: a hosted copy, often on GitHub.
+- Pull: fetch and integrate remote changes.
+
+Never commit passwords, API keys, private tokens or confidential files.
